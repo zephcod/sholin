@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18043" start="node6" appversion="6.1.11">
+  <panorama id="node6" hideabout="1">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1000" width="1000" levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingroll="0" levelingpitch="0">
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" info="" heading="0" customnodeid="" description="Prepared for a contest on Freelancer" author="Sofonias L" source="" datetime="2/4/2024 7:06 PM" latitude="" tags="pano" nodeid="node6" copyright="Sofonias L" title="Drive Way" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label background="1" textcolor="0x000000" border="1" enabled="1" height="20" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" width="180" bordercolor="0x000000" borderradius="1" textalpha="1" wordwrap="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="2" description="" skinid="ht_node" pan="-1.13" url="{node7}" tilt="-4.51" target="0.9/-1.7/70.0" title="Parking"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" enabled="1" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomin="6" zoomoutpause="1" zoomspeed="3.5" zoomfov="20" zoomafteroutfov="20"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedwheel="0" speedwheel="1" invertwheel="0" lockedmouse="0" lockedkeyboard="0" contextprojections="1" hideabout="1" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1000" width="1000" levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingroll="0" levelingpitch="0">
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" info="" heading="0" customnodeid="" description="Prepared for a contest on Freelancer" author="Sofonias L" source="" datetime="2/4/2024 7:07 PM" latitude="" tags="pano" nodeid="node7" copyright="Sofonias L" title="Entrance" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label background="1" textcolor="0x000000" border="1" enabled="1" height="20" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" width="180" bordercolor="0x000000" borderradius="1" textalpha="1" wordwrap="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="3" description="" skinid="ht_node" pan="-0.5" url="{node8}" tilt="-10.14" target="2.7/-7.4/70.0" title="Signage / Attraction"/>
+      <hotspot id="4" description="" skinid="ht_node" pan="-360" url="{node5}" tilt="-3.94" target="-0.3/-3.5/70.0" title="Main Path Start"/>
+      <hotspot id="1" description="" skinid="ht_node" pan="-188.38" url="{node6}" tilt="-4.52" target="-178.6/1.9/70.0" title="Entrance Gate"/>
+      <hotspot id="6" description="" skinid="ht_node" pan="-357.81" url="{node10}" tilt="-2.2" target="-77.6/0.3/70.0" title="Gazebo"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" enabled="1" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomin="6" zoomoutpause="1" zoomspeed="3.5" zoomfov="20" zoomafteroutfov="20"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedwheel="0" speedwheel="1" invertwheel="0" lockedmouse="0" lockedkeyboard="0" contextprojections="1" hideabout="1" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1000" width="1000" levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingroll="0" levelingpitch="0">
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" info="" heading="0" customnodeid="" description="Prepared for a contest on Freelancer" author="Sofonias L" source="" datetime="2/4/2024 7:06 PM" latitude="" tags="pano" nodeid="node8" copyright="Sofonias L" title="Garage" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label background="1" textcolor="0x000000" border="1" enabled="1" height="20" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" width="180" bordercolor="0x000000" borderradius="1" textalpha="1" wordwrap="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="1" description="" skinid="ht_node" pan="-185.64" url="{node6}" tilt="-3.18" target="178.7/0.1/70.0" title="Entrance Gate"/>
+      <hotspot id="2" description="" skinid="ht_node" pan="-186.5" url="{node7}" tilt="-14.53" target="172.6/-5.0/70.0" title="Parking"/>
+      <hotspot id="4" description="" skinid="ht_node" pan="-359.41" url="{node5}" tilt="-7.15" target="-0.5/-4.3/70.0" title="Main Path Start"/>
+      <hotspot id="6" description="" skinid="ht_node" pan="-357.25" url="{node10}" tilt="-2.62" target="-77.8/-6.4/70.0" title="Gazebo"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" enabled="1" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomin="6" zoomoutpause="1" zoomspeed="3.5" zoomfov="20" zoomafteroutfov="20"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedwheel="0" speedwheel="1" invertwheel="0" lockedmouse="0" lockedkeyboard="0" contextprojections="1" hideabout="1" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1000" width="1000" levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingroll="0" levelingpitch="0">
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" info="" heading="0" customnodeid="" description="Prepared for a contest on Freelancer" author="Sofonias L" source="" datetime="2/4/2024 5:31 PM" latitude="" tags="pano" nodeid="node5" copyright="Sofonias L" title="Side Entrance" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label background="1" textcolor="0x000000" border="1" enabled="1" height="20" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" width="180" bordercolor="0x000000" borderradius="1" textalpha="1" wordwrap="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="2" description="" skinid="ht_node" pan="-182.88" url="{node7}" tilt="-6.28" target="177.6/-3.2/70.0" title="Parking"/>
+      <hotspot id="3" description="" skinid="ht_node" pan="-178.44" url="{node8}" tilt="-13.99" target="173.3/-2.8/70.0" title="Signage / Attraction"/>
+      <hotspot id="6" description="" skinid="ht_node" pan="-353.73" url="{node10}" tilt="-4.64" target="-64.4/0.0/70.0" title="Gazebo"/>
+      <hotspot id="5" description="" skinid="ht_node" pan="-359.86" url="{node9}" tilt="-2.12" target="-173.3/-0.4/70.0" title="Main Path End"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" enabled="1" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomin="6" zoomoutpause="1" zoomspeed="3.5" zoomfov="20" zoomafteroutfov="20"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedwheel="0" speedwheel="1" invertwheel="0" lockedmouse="0" lockedkeyboard="0" contextprojections="1" hideabout="1" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1000" width="1000" levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingroll="0" levelingpitch="0">
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" info="" heading="0" customnodeid="" description="Prepared for a contest on Freelancer" author="Sofonias L" source="" datetime="" latitude="" tags="pano" nodeid="node9" copyright="Sofonias L" title="Landscape" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label background="1" textcolor="0x000000" border="1" enabled="1" height="20" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" width="180" bordercolor="0x000000" borderradius="1" textalpha="1" wordwrap="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="6" description="" skinid="ht_node" pan="-6.94" url="{node10}" tilt="-4.67" target="85.3/4.2/70.0" title="Gazebo"/>
+      <hotspot id="4" description="" skinid="ht_node" pan="-359.88" url="{node10}" tilt="-2.52" target="" title="Main Path Start"/>
+      <hotspot id="7" description="" skinid="ht_node" pan="-147.84" url="{node11}" tilt="-6.2" target="114.9/-10.4/70.0" title="3-in-1 Court"/>
+      <hotspot id="8" description="" skinid="ht_node" pan="-224.72" url="{node12}" tilt="-5.71" target="60.9/-2.1/70.0" title="Pergolas"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" enabled="1" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomin="6" zoomoutpause="1" zoomspeed="3.5" zoomfov="20" zoomafteroutfov="20"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedwheel="0" speedwheel="1" invertwheel="0" lockedmouse="0" lockedkeyboard="0" contextprojections="1" hideabout="1" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1000" width="1000" levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingroll="0" levelingpitch="0">
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" info="" heading="0" customnodeid="" description="Prepared for a contest on Freelancer" author="Sofonias L" source="" datetime="" latitude="" tags="pano" nodeid="node10" copyright="Sofonias L" title="Back Yard" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label background="1" textcolor="0x000000" border="1" enabled="1" height="20" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" width="180" bordercolor="0x000000" borderradius="1" textalpha="1" wordwrap="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="5" description="" skinid="ht_node" pan="-95.12" url="{node9}" tilt="-4.7" target="144.5/-5.7/70.0" title="Main Path End"/>
+      <hotspot id="4" description="" skinid="ht_node" pan="-266.12" url="{node5}" tilt="-3.58" target="-136.2/-5.8/70.0" title="Main Path Start"/>
+      <hotspot id="7" description="" skinid="ht_node" pan="-76.75" url="{node11}" tilt="-2.88" target="93.0/-11.3/70.0" title="3-in-1 Court"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" enabled="1" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomin="6" zoomoutpause="1" zoomspeed="3.5" zoomfov="20" zoomafteroutfov="20"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedwheel="0" speedwheel="1" invertwheel="0" lockedmouse="0" lockedkeyboard="0" contextprojections="1" hideabout="1" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1000" width="1000" levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingroll="0" levelingpitch="0">
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" info="" heading="0" customnodeid="" description="Prepared for a contest on Freelancer" author="Sofonias L" source="" datetime="" latitude="" tags="pano" nodeid="node11" copyright="Sofonias L" title="Back Porch" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label background="1" textcolor="0x000000" border="1" enabled="1" height="20" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" width="180" bordercolor="0x000000" borderradius="1" textalpha="1" wordwrap="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="5" description="" skinid="ht_node" pan="-55.89" url="{node9}" tilt="-6.58" target="49.6/-5.7/70.0" title="Main Path End"/>
+      <hotspot id="8" description="" skinid="ht_node" pan="-1.95" url="{node12}" tilt="-5.21" target="0.0/0.0/70.0" title="Pergolas"/>
+      <hotspot id="6" description="" skinid="ht_node" pan="-78.1" url="{node10}" tilt="-3.04" target="111.6/-4.2/70.0" title="Gazebo"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" enabled="1" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomin="6" zoomoutpause="1" zoomspeed="3.5" zoomfov="20" zoomafteroutfov="20"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedwheel="0" speedwheel="1" invertwheel="0" lockedmouse="0" lockedkeyboard="0" contextprojections="1" hideabout="1" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1000" width="1000" levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingroll="0" levelingpitch="0">
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" info="" heading="0" customnodeid="" description="Prepared for a contest on Freelancer" author="Sofonias L" source="" datetime="" latitude="" tags="pano" nodeid="node12" copyright="Sofonias L" title="Master Suite Side" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label background="1" textcolor="0x000000" border="1" enabled="1" height="20" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" width="180" bordercolor="0x000000" borderradius="1" textalpha="1" wordwrap="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="7" description="" skinid="ht_node" pan="-181.67" url="{node11}" tilt="-5.74" target="-176.8/-8.3/70.0" title="3-in-1 Court"/>
+      <hotspot id="5" description="" skinid="ht_node" pan="-135.32" url="{node9}" tilt="-5.93" target="-60.5/-6.0/70.0" title="Main Path End"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" enabled="1" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomin="6" zoomoutpause="1" zoomspeed="3.5" zoomfov="20" zoomafteroutfov="20"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedwheel="0" speedwheel="1" invertwheel="0" lockedmouse="0" lockedkeyboard="0" contextprojections="1" hideabout="1" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" info="" heading="0" customnodeid="" description="Prepared for a contest on Freelancer" author="Sofonias L" source="" datetime="" latitude="" tags="" nodeid="master" copyright="Sofonias L" title="Caminitti Residences" longitude=""/>
+  </masternode>
+  <map bgcolor="rgba(255, 255, 255, 1)" id="FloorPlan01" transparent="0" zoomlevels="1" height="0" type="file" floorplannorth="220" width="0" tileformat="jpg" title="Bathroom Floor Plan"/>
+</tour>
